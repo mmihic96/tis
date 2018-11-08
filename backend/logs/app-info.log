@@ -1,0 +1,532 @@
+[07-11-2018 23:11:05] - Master 12440 is running
+[07-11-2018 23:11:92] - worker 7972 died
+[07-11-2018 23:11:93] - worker 10504 died
+[07-11-2018 23:11:93] - worker 12684 died
+[07-11-2018 23:11:00] - worker 11484 died
+[07-11-2018 23:11:02] - Master 9292 is running
+[07-11-2018 23:11:13] - worker 9312 died
+[07-11-2018 23:11:14] - worker 11868 died
+[07-11-2018 23:11:15] - worker 6456 died
+[07-11-2018 23:11:20] - worker 12228 died
+[07-11-2018 23:11:51] - Master 7640 is running
+[07-11-2018 23:11:77] - Worker 10560 started
+[07-11-2018 23:11:77] - Worker 3144 started
+[07-11-2018 23:11:77] - Worker 11036 started
+[07-11-2018 23:11:77] - Worker 4416 started
+[07-11-2018 23:11:79] - worker 11036 died
+[07-11-2018 23:11:79] - worker 3144 died
+[07-11-2018 23:11:80] - worker 10560 died
+[07-11-2018 23:11:80] - worker 4416 died
+[07-11-2018 23:11:31] - Master 2332 is running
+[07-11-2018 23:11:54] - Worker 10420 started
+[07-11-2018 23:11:54] - Worker 12388 started
+[07-11-2018 23:11:55] - Worker 4404 started
+[07-11-2018 23:11:57] - worker 10420 died
+[07-11-2018 23:11:57] - worker 4404 died
+[07-11-2018 23:11:57] - worker 12388 died
+[07-11-2018 23:11:59] - Worker 10888 started
+[07-11-2018 23:11:61] - worker 10888 died
+[07-11-2018 23:11:00] - Master 452 is running
+[07-11-2018 23:11:34] - Worker 1868 started
+[07-11-2018 23:11:36] - Worker 4608 started
+[07-11-2018 23:11:37] - worker 1868 died
+[07-11-2018 23:11:38] - worker 4608 died
+[07-11-2018 23:11:38] - Worker 5764 started
+[07-11-2018 23:11:41] - worker 5764 died
+[07-11-2018 23:11:46] - Worker 9288 started
+[07-11-2018 23:11:49] - worker 9288 died
+[07-11-2018 23:11:74] - Master 5872 is running
+[07-11-2018 23:11:08] - Worker 5056 started
+[07-11-2018 23:11:08] - Worker 880 started
+[07-11-2018 23:11:10] - worker 5056 died
+[07-11-2018 23:11:10] - worker 880 died
+[07-11-2018 23:11:12] - Worker 3772 started
+[07-11-2018 23:11:14] - Worker 11676 started
+[07-11-2018 23:11:14] - worker 3772 died
+[07-11-2018 23:11:16] - worker 11676 died
+[07-11-2018 23:11:21] - Master 5476 is running
+[07-11-2018 23:11:55] - Worker 4136 started
+[07-11-2018 23:11:56] - Worker 7828 started
+[07-11-2018 23:11:56] - Listening on - localhost:27017
+[07-11-2018 23:11:56] - Listening on - localhost:27017
+[07-11-2018 23:11:58] - Worker 11612 started
+[07-11-2018 23:11:58] - Worker 3028 started
+[07-11-2018 23:11:59] - Listening on - localhost:27017
+[07-11-2018 23:11:59] - Listening on - localhost:27017
+[07-11-2018 23:11:26] - Master 11956 is running
+[07-11-2018 23:11:53] - Worker 5832 started
+[07-11-2018 23:11:54] - Worker 5472 started
+[07-11-2018 23:11:54] - Worker 13260 started
+[07-11-2018 23:11:54] - Listening on - localhost:27017
+[07-11-2018 23:11:55] - Listening on - localhost:27017
+[07-11-2018 23:11:55] - Listening on - localhost:27017
+[07-11-2018 23:11:57] - Worker 10236 started
+[07-11-2018 23:11:57] - Listening on - localhost:27017
+[08-11-2018 19:11:85] - Master 2128 is running
+[08-11-2018 19:11:65] - Worker 3400 started
+[08-11-2018 19:11:65] - Worker 12352 started
+[08-11-2018 19:11:65] - Worker 6276 started
+[08-11-2018 19:11:65] - Worker 11844 started
+[08-11-2018 19:11:66] - Listening on - localhost:27017
+[08-11-2018 19:11:66] - Listening on - localhost:27017
+[08-11-2018 19:11:66] - Listening on - localhost:27017
+[08-11-2018 19:11:66] - Listening on - localhost:27017
+[08-11-2018 19:11:53] - Master 4800 is running
+[08-11-2018 19:11:61] - Using development config!!!
+[08-11-2018 19:11:66] - Using development config!!!
+[08-11-2018 19:11:71] - Using development config!!!
+[08-11-2018 19:11:76] - Using development config!!!
+[08-11-2018 19:11:23] - Worker 12092 started
+[08-11-2018 19:11:24] - Listening on - localhost:27017
+[08-11-2018 19:11:25] - Worker 480 started
+[08-11-2018 19:11:26] - Listening on - localhost:27017
+[08-11-2018 19:11:27] - Worker 3060 started
+[08-11-2018 19:11:28] - Listening on - localhost:27017
+[08-11-2018 19:11:30] - Worker 7608 started
+[08-11-2018 19:11:30] - Listening on - localhost:27017
+[08-11-2018 19:11:27] - Master 6844 is running
+[08-11-2018 19:11:13] - Using development config!!!
+[08-11-2018 19:11:14] - Using development config!!!
+[08-11-2018 19:11:19] - Using development config!!!
+[08-11-2018 19:11:25] - Using development config!!!
+[08-11-2018 19:11:53] - Worker 5440 started
+[08-11-2018 19:11:54] - Worker 12416 started
+[08-11-2018 19:11:56] - worker 5440 died
+[08-11-2018 19:11:56] - worker 12416 died
+[08-11-2018 19:11:58] - Worker 7592 started
+[08-11-2018 19:11:60] - worker 7592 died
+[08-11-2018 19:11:64] - Worker 4484 started
+[08-11-2018 19:11:66] - worker 4484 died
+[08-11-2018 19:11:25] - Master 11060 is running
+[08-11-2018 19:11:09] - Using development config!!!
+[08-11-2018 19:11:10] - Using development config!!!
+[08-11-2018 19:11:16] - Using development config!!!
+[08-11-2018 19:11:16] - Using development config!!!
+[08-11-2018 19:11:50] - Worker 1820 started
+[08-11-2018 19:11:50] - Worker 8584 started
+[08-11-2018 19:11:51] - Listening on - localhost:27017
+[08-11-2018 19:11:51] - Listening on - localhost:27017
+[08-11-2018 19:11:53] - Worker 10852 started
+[08-11-2018 19:11:54] - Worker 11168 started
+[08-11-2018 19:11:54] - Listening on - localhost:27017
+[08-11-2018 19:11:54] - Listening on - localhost:27017
+[08-11-2018 19:11:91] - Master 3132 is running
+[08-11-2018 19:11:91] - Using development config!!!
+[08-11-2018 19:11:93] - Using development config!!!
+[08-11-2018 19:11:96] - Using development config!!!
+[08-11-2018 19:11:97] - Using development config!!!
+[08-11-2018 19:11:37] - Worker 10052 started
+[08-11-2018 19:11:37] - Listening on - localhost:27017
+[08-11-2018 19:11:41] - Worker 4332 started
+[08-11-2018 19:11:41] - Worker 10848 started
+[08-11-2018 19:11:42] - Listening on - localhost:27017
+[08-11-2018 19:11:42] - Worker 8864 started
+[08-11-2018 19:11:42] - Listening on - localhost:27017
+[08-11-2018 19:11:43] - Listening on - localhost:27017
+[08-11-2018 20:11:55] - Master 8368 is running
+[08-11-2018 20:11:43] - Using development config!!!
+[08-11-2018 20:11:43] - Using development config!!!
+[08-11-2018 20:11:43] - Using development config!!!
+[08-11-2018 20:11:48] - Using development config!!!
+[08-11-2018 20:11:87] - Worker 10384 started
+[08-11-2018 20:11:87] - Worker 9312 started
+[08-11-2018 20:11:87] - Worker 2632 started
+[08-11-2018 20:11:88] - Listening on - localhost:27017
+[08-11-2018 20:11:88] - Listening on - localhost:27017
+[08-11-2018 20:11:88] - Listening on - localhost:27017
+[08-11-2018 20:11:93] - Worker 13204 started
+[08-11-2018 20:11:94] - Listening on - localhost:27017
+[08-11-2018 20:11:21] - Master 10176 is running
+[08-11-2018 20:11:08] - Using development config!!!
+[08-11-2018 20:11:09] - Using development config!!!
+[08-11-2018 20:11:12] - Using development config!!!
+[08-11-2018 20:11:15] - Using development config!!!
+[08-11-2018 20:11:47] - Worker 7744 started
+[08-11-2018 20:11:48] - Listening on - localhost:27017
+[08-11-2018 20:11:49] - Worker 9084 started
+[08-11-2018 20:11:50] - Listening on - localhost:27017
+[08-11-2018 20:11:51] - Worker 1456 started
+[08-11-2018 20:11:52] - Listening on - localhost:27017
+[08-11-2018 20:11:54] - Worker 3608 started
+[08-11-2018 20:11:54] - Listening on - localhost:27017
+[08-11-2018 20:11:27] - Master 6740 is running
+[08-11-2018 20:11:17] - Using development config!!!
+[08-11-2018 20:11:21] - Using development config!!!
+[08-11-2018 20:11:27] - Using development config!!!
+[08-11-2018 20:11:34] - Using development config!!!
+[08-11-2018 20:11:70] - Worker 10296 started
+[08-11-2018 20:11:71] - Listening on - localhost:27017
+[08-11-2018 20:11:77] - Worker 11768 started
+[08-11-2018 20:11:78] - Worker 11732 started
+[08-11-2018 20:11:81] - Listening on - localhost:27017
+[08-11-2018 20:11:84] - Listening on - localhost:27017
+[08-11-2018 20:11:92] - Worker 6380 started
+[08-11-2018 20:11:93] - Listening on - localhost:27017
+[08-11-2018 20:11:34] - Master 11980 is running
+[08-11-2018 20:11:22] - Using development config!!!
+[08-11-2018 20:11:26] - worker 3736 died
+[08-11-2018 20:11:29] - Using development config!!!
+[08-11-2018 20:11:32] - Using development config!!!
+[08-11-2018 20:11:36] - Using development config!!!
+[08-11-2018 20:11:41] - worker 9080 died
+[08-11-2018 20:11:42] - worker 3464 died
+[08-11-2018 20:11:43] - worker 7560 died
+[08-11-2018 20:11:36] - Master 8568 is running
+[08-11-2018 20:11:25] - Using development config!!!
+[08-11-2018 20:11:25] - Using development config!!!
+[08-11-2018 20:11:27] - Using development config!!!
+[08-11-2018 20:11:35] - Using development config!!!
+[08-11-2018 20:11:70] - Worker 7556 started
+[08-11-2018 20:11:72] - Worker 4716 started
+[08-11-2018 20:11:78] - Worker 7140 started
+[08-11-2018 20:11:81] - Listening on - localhost:27017
+[08-11-2018 20:11:81] - Listening on - localhost:27017
+[08-11-2018 20:11:81] - Listening on - localhost:27017
+[08-11-2018 20:11:89] - Worker 13200 started
+[08-11-2018 20:11:90] - Listening on - localhost:27017
+[08-11-2018 20:11:88] - Master 2464 is running
+[08-11-2018 20:11:80] - Using development config!!!
+[08-11-2018 20:11:83] - Using development config!!!
+[08-11-2018 20:11:87] - Using development config!!!
+[08-11-2018 20:11:90] - Using development config!!!
+[08-11-2018 20:11:29] - Worker 10020 started
+[08-11-2018 20:11:30] - Listening on - localhost:27017
+[08-11-2018 20:11:34] - Worker 1756 started
+[08-11-2018 20:11:41] - Listening on - localhost:27017
+[08-11-2018 20:11:42] - Worker 5984 started
+[08-11-2018 20:11:42] - Listening on - localhost:27017
+[08-11-2018 20:11:48] - Worker 11656 started
+[08-11-2018 20:11:49] - Listening on - localhost:27017
+[08-11-2018 20:11:99] - Master 7836 is running
+[08-11-2018 20:11:88] - Using development config!!!
+[08-11-2018 20:11:88] - Using development config!!!
+[08-11-2018 20:11:88] - Using development config!!!
+[08-11-2018 20:11:89] - Using development config!!!
+[08-11-2018 20:11:94] - worker 3064 died
+[08-11-2018 20:11:96] - worker 9400 died
+[08-11-2018 20:11:97] - worker 9780 died
+[08-11-2018 20:11:97] - worker 916 died
+[08-11-2018 20:11:99] - Master 7368 is running
+[08-11-2018 20:11:92] - Using development config!!!
+[08-11-2018 20:11:92] - Using development config!!!
+[08-11-2018 20:11:93] - Using development config!!!
+[08-11-2018 20:11:96] - Using development config!!!
+[08-11-2018 20:11:34] - Worker 11888 started
+[08-11-2018 20:11:34] - Worker 5196 started
+[08-11-2018 20:11:36] - Worker 7544 started
+[08-11-2018 20:11:38] - Listening on - localhost:27017
+[08-11-2018 20:11:42] - Listening on - localhost:27017
+[08-11-2018 20:11:43] - Listening on - localhost:27017
+[08-11-2018 20:11:48] - Worker 12264 started
+[08-11-2018 20:11:49] - Listening on - localhost:27017
+[08-11-2018 20:11:74] - Master 804 is running
+[08-11-2018 20:11:59] - Using development config!!!
+[08-11-2018 20:11:64] - Using development config!!!
+[08-11-2018 20:11:67] - Using development config!!!
+[08-11-2018 20:11:73] - Using development config!!!
+[08-11-2018 20:11:13] - Worker 9924 started
+[08-11-2018 20:11:15] - Worker 5776 started
+[08-11-2018 20:11:17] - Listening on - localhost:27017
+[08-11-2018 20:11:21] - Listening on - localhost:27017
+[08-11-2018 20:11:22] - Worker 12716 started
+[08-11-2018 20:11:26] - Listening on - localhost:27017
+[08-11-2018 20:11:28] - Worker 7248 started
+[08-11-2018 20:11:31] - Listening on - localhost:27017
+[08-11-2018 20:11:20] - Master 1436 is running
+[08-11-2018 20:11:08] - Using development config!!!
+[08-11-2018 20:11:09] - Using development config!!!
+[08-11-2018 20:11:10] - Using development config!!!
+[08-11-2018 20:11:14] - Using development config!!!
+[08-11-2018 20:11:58] - Worker 12396 started
+[08-11-2018 20:11:58] - Worker 11196 started
+[08-11-2018 20:11:58] - Worker 1432 started
+[08-11-2018 20:11:60] - Worker 2872 started
+[08-11-2018 20:11:74] - Listening on - undefined:undefined
+[08-11-2018 20:11:76] - Listening on - undefined:undefined
+[08-11-2018 20:11:77] - Listening on - undefined:undefined
+[08-11-2018 20:11:79] - Listening on - undefined:undefined
+[08-11-2018 20:11:33] - Master 3200 is running
+[08-11-2018 20:11:17] - Using development config!!!
+[08-11-2018 20:11:20] - Using development config!!!
+[08-11-2018 20:11:22] - Using development config!!!
+[08-11-2018 20:11:23] - Using development config!!!
+[08-11-2018 20:11:54] - Worker 7060 started
+[08-11-2018 20:11:55] - Listening on - localhost:27017
+[08-11-2018 20:11:60] - Worker 12020 started
+[08-11-2018 20:11:60] - Listening on - localhost:27017
+[08-11-2018 20:11:61] - Worker 7952 started
+[08-11-2018 20:11:62] - Listening on - localhost:27017
+[08-11-2018 20:11:62] - Worker 9172 started
+[08-11-2018 20:11:63] - Listening on - localhost:27017
+[08-11-2018 20:11:11] - Master 10660 is running
+[08-11-2018 20:11:98] - Using development config!!!
+[08-11-2018 20:11:98] - Using development config!!!
+[08-11-2018 20:11:98] - Using development config!!!
+[08-11-2018 20:11:05] - Using development config!!!
+[08-11-2018 20:11:36] - Worker 12552 started
+[08-11-2018 20:11:36] - Worker 7428 started
+[08-11-2018 20:11:37] - Listening on - localhost:27017
+[08-11-2018 20:11:38] - Listening on - localhost:27017
+[08-11-2018 20:11:38] - Worker 1456 started
+[08-11-2018 20:11:39] - Listening on - localhost:27017
+[08-11-2018 20:11:42] - Worker 10396 started
+[08-11-2018 20:11:43] - Listening on - localhost:27017
+[08-11-2018 20:11:02] - Master 9376 is running
+[08-11-2018 20:11:87] - Using development config!!!
+[08-11-2018 20:11:88] - Using development config!!!
+[08-11-2018 20:11:88] - Using development config!!!
+[08-11-2018 20:11:93] - Using development config!!!
+[08-11-2018 20:11:25] - Worker 4712 started
+[08-11-2018 20:11:26] - Listening on - localhost:27017
+[08-11-2018 20:11:27] - Worker 12704 started
+[08-11-2018 20:11:28] - Worker 8944 started
+[08-11-2018 20:11:28] - Listening on - localhost:27017
+[08-11-2018 20:11:29] - Listening on - localhost:27017
+[08-11-2018 20:11:30] - Worker 6688 started
+[08-11-2018 20:11:30] - Listening on - localhost:27017
+[08-11-2018 20:11:71] - Master 7332 is running
+[08-11-2018 20:11:63] - Using development config!!!
+[08-11-2018 20:11:64] - Using development config!!!
+[08-11-2018 20:11:65] - Using development config!!!
+[08-11-2018 20:11:73] - Using development config!!!
+[08-11-2018 20:11:07] - Worker 9180 started
+[08-11-2018 20:11:07] - Worker 11060 started
+[08-11-2018 20:11:07] - Worker 11440 started
+[08-11-2018 20:11:08] - Listening on - localhost:27017
+[08-11-2018 20:11:08] - Listening on - localhost:27017
+[08-11-2018 20:11:08] - Listening on - localhost:27017
+[08-11-2018 20:11:13] - Worker 2316 started
+[08-11-2018 20:11:14] - Listening on - localhost:27017
+[08-11-2018 20:11:02] - Master 1076 is running
+[08-11-2018 20:11:86] - Using development config!!!
+[08-11-2018 20:11:86] - Using development config!!!
+[08-11-2018 20:11:91] - Using development config!!!
+[08-11-2018 20:11:93] - Using development config!!!
+[08-11-2018 20:11:23] - Worker 9596 started
+[08-11-2018 20:11:24] - Listening on - 127.0.0.1:27017
+[08-11-2018 20:11:25] - Worker 9304 started
+[08-11-2018 20:11:26] - Listening on - 127.0.0.1:27017
+[08-11-2018 20:11:27] - Worker 12612 started
+[08-11-2018 20:11:29] - Listening on - 127.0.0.1:27017
+[08-11-2018 20:11:31] - Worker 3464 started
+[08-11-2018 20:11:32] - Listening on - 127.0.0.1:27017
+[08-11-2018 20:11:92] - Master 9620 is running
+[08-11-2018 20:11:76] - Using development config!!!
+[08-11-2018 20:11:77] - Using development config!!!
+[08-11-2018 20:11:79] - Using development config!!!
+[08-11-2018 20:11:82] - Using development config!!!
+[08-11-2018 20:11:15] - Worker 9268 started
+[08-11-2018 20:11:15] - Worker 7496 started
+[08-11-2018 20:11:15] - Worker 1656 started
+[08-11-2018 20:11:16] - Listening on - 127.0.0.1:27017
+[08-11-2018 20:11:17] - Listening on - 127.0.0.1:27017
+[08-11-2018 20:11:17] - Listening on - 127.0.0.1:27017
+[08-11-2018 20:11:20] - Worker 10936 started
+[08-11-2018 20:11:21] - Listening on - 127.0.0.1:27017
+[08-11-2018 21:11:66] - Master 5052 is running
+[08-11-2018 21:11:51] - Using development config!!!
+[08-11-2018 21:11:51] - Using development config!!!
+[08-11-2018 21:11:53] - worker 13116 died
+[08-11-2018 21:11:54] - Using development config!!!
+[08-11-2018 21:11:54] - worker 10440 died
+[08-11-2018 21:11:54] - Using development config!!!
+[08-11-2018 21:11:55] - worker 12500 died
+[08-11-2018 21:11:55] - worker 4612 died
+[08-11-2018 21:11:30] - Master 13280 is running
+[08-11-2018 21:11:14] - Using development config!!!
+[08-11-2018 21:11:16] - Using development config!!!
+[08-11-2018 21:11:16] - Using development config!!!
+[08-11-2018 21:11:19] - Using development config!!!
+[08-11-2018 21:11:54] - Worker 11244 started
+[08-11-2018 21:11:54] - Listening on - localhost:27017
+[08-11-2018 21:11:55] - Worker 6340 started
+[08-11-2018 21:11:55] - Listening on - localhost:27017
+[08-11-2018 21:11:55] - Worker 6640 started
+[08-11-2018 21:11:56] - Listening on - localhost:27017
+[08-11-2018 21:11:57] - Worker 12696 started
+[08-11-2018 21:11:58] - Listening on - localhost:27017
+[08-11-2018 21:11:33] - Master 208 is running
+[08-11-2018 21:11:18] - Using development config!!!
+[08-11-2018 21:11:18] - Using development config!!!
+[08-11-2018 21:11:19] - Using development config!!!
+[08-11-2018 21:11:19] - Using development config!!!
+[08-11-2018 21:11:56] - Worker 7888 started
+[08-11-2018 21:11:56] - Worker 12892 started
+[08-11-2018 21:11:57] - Worker 11208 started
+[08-11-2018 21:11:57] - Listening on - localhost:27017
+[08-11-2018 21:11:57] - Listening on - localhost:27017
+[08-11-2018 21:11:58] - Listening on - localhost:27017
+[08-11-2018 21:11:59] - Worker 3608 started
+[08-11-2018 21:11:59] - Listening on - localhost:27017
+[08-11-2018 21:11:06] - Master 3444 is running
+[08-11-2018 21:11:88] - Using development config!!!
+[08-11-2018 21:11:92] - Using development config!!!
+[08-11-2018 21:11:93] - Using development config!!!
+[08-11-2018 21:11:93] - Using development config!!!
+[08-11-2018 21:11:30] - Worker 8688 started
+[08-11-2018 21:11:31] - Listening on - localhost:27017
+[08-11-2018 21:11:31] - Worker 11348 started
+[08-11-2018 21:11:31] - Worker 1272 started
+[08-11-2018 21:11:32] - Listening on - localhost:27017
+[08-11-2018 21:11:32] - Listening on - localhost:27017
+[08-11-2018 21:11:32] - Worker 13000 started
+[08-11-2018 21:11:33] - Listening on - localhost:27017
+[08-11-2018 21:11:08] - Master 10252 is running
+[08-11-2018 21:11:95] - Using development config!!!
+[08-11-2018 21:11:97] - Using development config!!!
+[08-11-2018 21:11:00] - Using development config!!!
+[08-11-2018 21:11:06] - Using development config!!!
+[08-11-2018 21:11:43] - Worker 4612 started
+[08-11-2018 21:11:44] - Worker 9160 started
+[08-11-2018 21:11:50] - Listening on - localhost:27017
+[08-11-2018 21:11:50] - Listening on - localhost:27017
+[08-11-2018 21:11:54] - Worker 12912 started
+[08-11-2018 21:11:56] - Worker 5012 started
+[08-11-2018 21:11:60] - Listening on - localhost:27017
+[08-11-2018 21:11:62] - Listening on - localhost:27017
+[08-11-2018 21:11:41] - Master 10544 is running
+[08-11-2018 21:11:57] - Using development config!!!
+[08-11-2018 21:11:59] - Using development config!!!
+[08-11-2018 21:11:62] - Using development config!!!
+[08-11-2018 21:11:65] - Using development config!!!
+[08-11-2018 21:11:13] - Worker 11800 started
+[08-11-2018 21:11:13] - Worker 1804 started
+[08-11-2018 21:11:13] - Worker 4256 started
+[08-11-2018 21:11:17] - Listening on - localhost:27017
+[08-11-2018 21:11:17] - Listening on - localhost:27017
+[08-11-2018 21:11:18] - Listening on - localhost:27017
+[08-11-2018 21:11:22] - Worker 5620 started
+[08-11-2018 21:11:23] - Listening on - localhost:27017
+[08-11-2018 21:11:63] - Master 2864 is running
+[08-11-2018 21:11:54] - Using development config!!!
+[08-11-2018 21:11:61] - Using development config!!!
+[08-11-2018 21:11:62] - Using development config!!!
+[08-11-2018 21:11:68] - Using development config!!!
+[08-11-2018 21:11:11] - Worker 6996 started
+[08-11-2018 21:11:12] - Listening on - localhost:27017
+[08-11-2018 21:11:20] - Worker 1200 started
+[08-11-2018 21:11:20] - Worker 12364 started
+[08-11-2018 21:11:20] - Worker 10300 started
+[08-11-2018 21:11:23] - Listening on - localhost:27017
+[08-11-2018 21:11:23] - Listening on - localhost:27017
+[08-11-2018 21:11:23] - Listening on - localhost:27017
+[08-11-2018 21:11:43] - Master 1804 is running
+[08-11-2018 21:11:31] - Using development config!!!
+[08-11-2018 21:11:33] - Using development config!!!
+[08-11-2018 21:11:35] - Using development config!!!
+[08-11-2018 21:11:41] - Using development config!!!
+[08-11-2018 21:11:73] - Worker 5548 started
+[08-11-2018 21:11:74] - Worker 10400 started
+[08-11-2018 21:11:76] - worker 5548 died
+[08-11-2018 21:11:78] - worker 10400 died
+[08-11-2018 21:11:78] - Worker 11580 started
+[08-11-2018 21:11:83] - worker 11580 died
+[08-11-2018 21:11:91] - Worker 10676 started
+[08-11-2018 21:11:95] - worker 10676 died
+[08-11-2018 21:11:98] - Master 12464 is running
+[08-11-2018 21:11:88] - Using development config!!!
+[08-11-2018 21:11:90] - Using development config!!!
+[08-11-2018 21:11:97] - Using development config!!!
+[08-11-2018 21:11:01] - Using development config!!!
+[08-11-2018 21:11:43] - Worker 11160 started
+[08-11-2018 21:11:44] - Worker 5340 started
+[08-11-2018 21:11:50] - worker 11160 died
+[08-11-2018 21:11:50] - Worker 9480 started
+[08-11-2018 21:11:54] - worker 5340 died
+[08-11-2018 21:11:54] - Worker 5392 started
+[08-11-2018 21:11:58] - worker 9480 died
+[08-11-2018 21:11:60] - worker 5392 died
+[08-11-2018 21:11:34] - Master 13132 is running
+[08-11-2018 21:11:28] - Using development config!!!
+[08-11-2018 21:11:29] - Using development config!!!
+[08-11-2018 21:11:38] - Using development config!!!
+[08-11-2018 21:11:49] - Using development config!!!
+[08-11-2018 21:11:85] - Worker 7736 started
+[08-11-2018 21:11:89] - Worker 7980 started
+[08-11-2018 21:11:89] - worker 7736 died
+[08-11-2018 21:11:89] - Worker 5404 started
+[08-11-2018 21:11:93] - worker 7980 died
+[08-11-2018 21:11:96] - worker 5404 died
+[08-11-2018 21:11:03] - Worker 4028 started
+[08-11-2018 21:11:07] - worker 4028 died
+[08-11-2018 21:11:42] - Master 7624 is running
+[08-11-2018 21:11:35] - Using development config!!!
+[08-11-2018 21:11:36] - Using development config!!!
+[08-11-2018 21:11:36] - Using development config!!!
+[08-11-2018 21:11:36] - Using development config!!!
+[08-11-2018 21:11:85] - Worker 9056 started
+[08-11-2018 21:11:86] - Worker 2864 started
+[08-11-2018 21:11:90] - Worker 9708 started
+[08-11-2018 21:11:95] - Listening on - localhost:27017
+[08-11-2018 21:11:95] - Listening on - localhost:27017
+[08-11-2018 21:11:95] - Listening on - localhost:27017
+[08-11-2018 21:11:95] - Worker 8008 started
+[08-11-2018 21:11:98] - Listening on - localhost:27017
+[08-11-2018 21:11:68] - Master 13212 is running
+[08-11-2018 21:11:59] - Using development config!!!
+[08-11-2018 21:11:60] - Using development config!!!
+[08-11-2018 21:11:64] - Using development config!!!
+[08-11-2018 21:11:67] - Using development config!!!
+[08-11-2018 21:11:11] - Worker 484 started
+[08-11-2018 21:11:12] - Worker 5632 started
+[08-11-2018 21:11:19] - worker 484 died
+[08-11-2018 21:11:20] - Worker 8900 started
+[08-11-2018 21:11:23] - worker 5632 died
+[08-11-2018 21:11:23] - Worker 1664 started
+[08-11-2018 21:11:26] - worker 8900 died
+[08-11-2018 21:11:29] - worker 1664 died
+[08-11-2018 21:11:51] - Master 9944 is running
+[08-11-2018 21:11:43] - Using development config!!!
+[08-11-2018 21:11:46] - Using development config!!!
+[08-11-2018 21:11:51] - Using development config!!!
+[08-11-2018 21:11:53] - Using development config!!!
+[08-11-2018 21:11:93] - Worker 12428 started
+[08-11-2018 21:11:98] - worker 12428 died
+[08-11-2018 21:11:03] - Worker 2632 started
+[08-11-2018 21:11:03] - Worker 6288 started
+[08-11-2018 21:11:03] - Worker 6036 started
+[08-11-2018 21:11:09] - worker 2632 died
+[08-11-2018 21:11:10] - worker 6288 died
+[08-11-2018 21:11:10] - worker 6036 died
+[08-11-2018 21:11:26] - Master 11164 is running
+[08-11-2018 21:11:20] - Using development config!!!
+[08-11-2018 21:11:20] - Using development config!!!
+[08-11-2018 21:11:21] - Using development config!!!
+[08-11-2018 21:11:28] - Using development config!!!
+[08-11-2018 21:11:51] - Using development config!!!
+[08-11-2018 21:11:51] - Using development config!!!
+[08-11-2018 21:11:53] - Using development config!!!
+[08-11-2018 21:11:59] - Using development config!!!
+[08-11-2018 21:11:63] - Worker 2220 started
+[08-11-2018 21:11:63] - Worker 7336 started
+[08-11-2018 21:11:64] - Listening on - localhost:3000
+[08-11-2018 21:11:64] - Listening on - localhost:3000
+[08-11-2018 21:11:65] - Worker 2152 started
+[08-11-2018 21:11:66] - Listening on - localhost:3000
+[08-11-2018 21:11:72] - Worker 8676 started
+[08-11-2018 21:11:73] - Listening on - localhost:3000
+[08-11-2018 21:11:68] - Connected to database tis
+[08-11-2018 21:11:68] - Connected to database tis
+[08-11-2018 21:11:68] - Connected to database tis
+[08-11-2018 21:11:74] - Connected to database tis
+[08-11-2018 21:11:70] - Master 10944 is running
+[08-11-2018 21:11:61] - Using development config!!!
+[08-11-2018 21:11:61] - Using development config!!!
+[08-11-2018 21:11:63] - Using development config!!!
+[08-11-2018 21:11:64] - Using development config!!!
+[08-11-2018 21:11:93] - Using development config!!!
+[08-11-2018 21:11:93] - Using development config!!!
+[08-11-2018 21:11:93] - Using development config!!!
+[08-11-2018 21:11:95] - Using development config!!!
+[08-11-2018 21:11:03] - Worker 4124 started
+[08-11-2018 21:11:04] - Listening on - localhost:3000
+[08-11-2018 21:11:05] - Worker 9456 started
+[08-11-2018 21:11:05] - Worker 10200 started
+[08-11-2018 21:11:05] - Listening on - localhost:3000
+[08-11-2018 21:11:06] - Listening on - localhost:3000
+[08-11-2018 21:11:08] - Worker 4064 started
+[08-11-2018 21:11:09] - Listening on - localhost:3000
+[08-11-2018 21:11:07] - Connected to database tis
+[08-11-2018 21:11:13] - Connected to database tis
+[08-11-2018 21:11:15] - Connected to database tis
+[08-11-2018 21:11:15] - Connected to database tis
