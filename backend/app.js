@@ -9,6 +9,8 @@ let bodyParser = require('body-parser');
 let fileUpload = require('express-fileupload');
 let cors = require('cors')
 
+let middleware = require('./middleware');
+
 let app = express();
 
 app.use(bodyParser.json());
